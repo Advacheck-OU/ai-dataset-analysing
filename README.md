@@ -3,7 +3,7 @@
 # Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts
 ![](https://img.shields.io/badge/Made_with-python-blue.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.14677-b31b1b.svg)](https://arxiv.org/abs/2410.14677)
-[![LICENSE](https://img.shields.io/badge/License-Apache--2.0-green.svg)](https://github.com/ryuryukke/OUTFOX?tab=Apache-2.0-1-ov-file)
+[![LICENSE](https://img.shields.io/badge/License-Apache--2.0-green.svg)]
 
 
 
@@ -15,6 +15,9 @@
 <!-- **Affiliations:** -->
 
 ¹ Advacheck OÜ, Tallinn, Estonia, ² Universite Grenoble Alpes, Grenoble, France,
+
+## 🛎️ TL;DR
+We demonstrated that AI-detection shared tasks and research papers datasets may seem inadequate for evaluation of AI detectors, resulting in systematic errors that inflate the detectors' quality scores.
 
 ## :mountain: Overview
 
