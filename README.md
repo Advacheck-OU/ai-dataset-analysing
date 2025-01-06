@@ -16,11 +16,26 @@
 
 ¹ Advacheck OÜ, Tallinn, Estonia, ² Universite Grenoble Alpes, Grenoble, France,
 
-# :mountain: Overview
+## :mountain: Overview
 
 The rapid development of autoregressive Large Language Models (LLMs) has significantly improved the quality of generated texts, necessitating reliable machine-generated text detectors. A huge number of detectors and collections with AI fragments have emerged, and several detection methods even showed recognition quality up to 99.9% according to the target metrics in such collections. However, the quality of such detectors tends to drop dramatically in the wild, posing a question: Are detectors actually highly trustworthy or do their high benchmark scores come from the poor quality of evaluation datasets? In this paper, we emphasise the need for robust and qualitative methods for evaluating generated data to be secure against bias and low generalising ability of future model. We present a systematic review of datasets from competitions dedicated to AI-generated content detection and propose methods for evaluating the quality of datasets containing AI-generated fragments. In addition, we discuss the possibility of using high-quality generated data to achieve two goals: improving the training of detection models and improving the training datasets themselves. Our contribution aims to facilitate a better understanding of the dynamics between human and machine text, which will ultimately support the integrity of information in an increasingly automated world.
 
-# :mountain_railway: Analysed Datasets
+## 📢 Updates
+- **Oct 2024**: Our code and preprint on arXiv are now available!
+
+## 🔨 Setup
+
+
+
+## :mountain_railway: Analysed Datasets
+
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+
+
 
 |           Research Datasets           | Year | Language                           |
 |---------------------------------------|------|------------------------------------|                                              
@@ -37,22 +52,31 @@ The rapid development of autoregressive Large Language Models (LLMs) has signifi
 
 
 
+</td>
+<td>
+
+
+
+
 | Shared Tasks Datasets           | Year | Language                           |  
 |-----------------------------|------|------------------------------------| 
 | [DAGPap22](https://www.kaggle.com/competitions/detecting-generated-scientific-papers/)         | 2022 | en                                 |
 | [RuATD](https://github.com/dialogue-evaluation/RuATD)            | 2022 | ru                                 |
 | [AuTexTification](https://sites.google.com/view/autextification)            | 2023 | en, es                             |
-| [IberAuTexTification](https://sites.google.com/view/iberautextification)        | 2024 | es, en, ca, gl, eu, pt             |
+| [IberAuTexTification](https://sites.google.com/view/iberautextification)        | 2024 | es, en, ca,<br> gl, eu, pt</br>             |
 | [Voight-Kampff Generative AI (PAN24)](https://pan.webis.de/clef24/pan24-web/generated-content-analysis.html)          | 2024 | en                                 |
 | [SemEval 2024 Task 8](https://github.com/mbzuai-nlp/SemEval2024-task8)   | 2024 | en, ar, de, it                     |
-| [GenAI Content Detection (MGT-1 Task 1)](https://genai-content-detection.gitlab.io/)      | 2025 | en, zh, it, ar, de, ru, bg, ur, id |
+| [GenAI Content Detection (MGT-1 Task 1)](https://genai-content-detection.gitlab.io/)      | 2025 | en, zh, it, ar, de, <br>ru, bg, ur, id</br> |
 
 
 
-# Citation
+</td>
+</tr>
+</table>
 
-If you use that results in your research, please cite our paper:
 
+## 📚 Citation
+#### If you find our code or ideas useful in your research, please cite our work as follows:
 ```bibtex
 @misc{2024aidetectorsgoodenough,
       title={Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts}, 
