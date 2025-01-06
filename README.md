@@ -64,9 +64,9 @@ The rapid development of autoregressive Large Language Models (LLMs) has signifi
 | [RuATD](https://github.com/dialogue-evaluation/RuATD)            | 2022 | ru                                 |
 | [AuTexTification](https://sites.google.com/view/autextification)            | 2023 | en, es                             |
 | [IberAuTexTification](https://sites.google.com/view/iberautextification)        | 2024 | es, en, ca,<br> gl, eu, pt</br>             |
-| [Voight-Kampff Generative AI (PAN24)](https://pan.webis.de/clef24/pan24-web/generated-content-analysis.html)          | 2024 | en                                 |
+| [Voight-Kampff GenAI](https://pan.webis.de/clef24/pan24-web/generated-content-analysis.html)          | 2024 | en                                 |
 | [SemEval 2024 Task 8](https://github.com/mbzuai-nlp/SemEval2024-task8)   | 2024 | en, ar, de, it                     |
-| [GenAI Content Detection (MGT-1 Task 1)](https://genai-content-detection.gitlab.io/)      | 2025 | en, zh, it, ar, de, <br>ru, bg, ur, id</br> |
+| [GenAI Content Detection](https://genai-content-detection.gitlab.io/)      | 2025 | en, zh, it, ar, de, <br>ru, bg, ur, id</br> |
 
 
 
