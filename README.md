@@ -45,7 +45,7 @@ The rapid development of autoregressive Large Language Models (LLMs) has signifi
 | [GhostBuster](https://arxiv.org/abs/2305.15047)      | 2023 | en                                 |
 | [MGTBench](https://arxiv.org/abs/2303.14822)              | 2024 | en                                 |
 | [MAGE](https://arxiv.org/abs/2305.13242)             | 2024 | en                                 |
-| [M4](https://arxiv.org/abs/2305.14902)               | 2024 | en, zh, ru, bg, ur, id             |
+| [M4](https://arxiv.org/abs/2305.14902)               | 2024 | en, zh, ru, <br>bg, ur, id</br>             |
 | [OutFox](https://arxiv.org/abs/2307.11729)           | 2024 | en                                 |
 
 
