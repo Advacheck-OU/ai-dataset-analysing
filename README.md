@@ -28,6 +28,11 @@ The rapid development of autoregressive Large Language Models (LLMs) has signifi
 
 ## 🔨 Setup
 
+```
+$ python -m venv env
+$ source env/bin/activate
+$ pip install -r requirements.txt
+```
 
 
 ## :mountain_railway: Analysed Datasets
