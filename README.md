@@ -3,7 +3,7 @@
 # Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts
 ![](https://img.shields.io/badge/Made_with-python-blue.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.14677-b31b1b.svg)](https://arxiv.org/abs/2410.14677)
-[![LICENSE](https://img.shields.io/badge/License-Apache--2.0-green.svg)]
+![LICENSE](https://img.shields.io/badge/License-Apache--2.0-green.svg)
 
 
 
