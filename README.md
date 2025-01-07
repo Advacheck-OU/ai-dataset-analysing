@@ -26,13 +26,6 @@ The rapid development of autoregressive Large Language Models (LLMs) has signifi
 ## 📢 Updates
 - **Oct 2024**: Our code and preprint on arXiv are now available!
 
-## 🔨 Setup
-
-```
-$ python -m venv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-```
 
 
 ## :mountain_railway: Analysed Datasets
